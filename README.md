@@ -1,4 +1,4 @@
-# cs451-project
+# Predicting Movie Ratings using Regression Models
 
 ## Vikram Vasan
 
